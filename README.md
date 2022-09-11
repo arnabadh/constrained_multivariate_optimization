@@ -1,0 +1,2 @@
+# constrained_multivariate_optimization
+Developed a modular code in C which can be used to solve real world constrained multi-variable optimization problems. The code executes the objective function in three phases namely the bounding phase method, golden search section method, and finally, Powell’s conjugate direction method in same sequence to predict the optimum solution. The penalty method dealt with the constraints in the problem
